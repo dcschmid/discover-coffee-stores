@@ -1,0 +1,15 @@
+{
+  "apexskier.eslint.config.fixOnSave" : "Enable",
+  "apexskier.typescript.config.formatDocumentOnSave" : "true",
+  "apexskier.typescript.config.isEnabledForJavascript" : "Enable",
+  "apexskier.typescript.config.organizeImportsOnSave" : "true",
+  "apexskier.typescript.config.userPreferences.displayPartsForJSDoc" : true,
+  "apexskier.typescript.config.userPreferences.generateReturnInDocTemplate" : false,
+  "apexskier.typescript.config.userPreferences.includeAutomaticOptionalChainCompletions" : true,
+  "apexskier.typescript.config.userPreferences.includeCompletionsForImportStatements" : true,
+  "apexskier.typescript.config.userPreferences.includeCompletionsForModuleExports" : true,
+  "apexskier.typescript.config.userPreferences.includeCompletionsWithInsertText" : true,
+  "apexskier.typescript.config.userPreferences.includeCompletionsWithSnippetText" : true,
+  "apexskier.typescript.config.userPreferences.includePackageJsonAutoImports" : "auto",
+  "apexskier.typescript.config.userPreferences.quotePreference" : "single"
+}
